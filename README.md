@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Ahmad Mudasir 👋
 
-<!--
-**Ahmad-Mudasir/Ahmad-Mudasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer** sharing about my journey and learnings in tech<br>
+🎓 Studied **Computer Science** (BSCS-2024)<br>
+🌐 I’m currently exploring **full-stack development** and enhancing my skills in **backend integration** .<br>
+🌱 I’m always learning and improving, with a strong focus on writing maintainable and scalable code.
+🚀 I enjoy working on projects that combine creativity and technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+
+[![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Mudasir)](https://github.com/Ahmad-Mudasir/Ahmad-Mudasir.git)
+
+---
+
+Feel free to connect and collaborate with me on exciting projects!
