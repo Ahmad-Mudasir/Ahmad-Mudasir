@@ -8,9 +8,7 @@
   🚀 Passionate about working on projects that combine creativity and technology.
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmad-Mudasir/Ahmad-Mudasir/main/IMG_6335.png" alt="Profile Image" width="300" height="300" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmad-Mudasir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
